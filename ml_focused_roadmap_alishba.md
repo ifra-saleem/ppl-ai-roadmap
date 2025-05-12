@@ -17,7 +17,7 @@ Deep Learning is a subset of machine learning that uses neural networks to learn
 
 *Note: Please study up to the tutorial 39 (Converting words to numbers, Word Embeddings.)*
 
-OR 
+#### OR
 
 🔗 [Deep Learning for Computer Vision with Python and TensorFlow](https://www.youtube.com/watch?v=IA3WxTTPXqQ)
 
@@ -34,7 +34,7 @@ This week continues your deep learning journey, focusing on advanced topics such
 
 🔗 [Deep Learning with TensorFlow - Playlist](https://www.youtube.com/watch?v=Mubj_fqiAv8&list=PLeo1K3hjS3uu7CxAacxVndI4bE_o3BDtO)
 
-OR
+#### OR
 
 - Continue from the section on "Modern Convolutional Neural Networks" at the [(20:31:25) AlexNet](https://www.youtube.com/watch?v=IA3WxTTPXqQ&t=73885s) timestamp.
 
